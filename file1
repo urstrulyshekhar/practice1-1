@@ -1,7 +1,7 @@
 {
-# incluid (stdio.h)
+# incluid (stdio.h) #dev2
 #void main
-{
+{#dev2
 insect hellow world
 }
 }
