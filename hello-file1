@@ -1,6 +1,6 @@
-public class ReverseNumberExample2   
+   
 { #dev2 modified  
 public static void main(String[] args)   
 {  #dev 2 modified
 int number = 123456, reverse = 0; 
-}
+}#dev 1 modified 

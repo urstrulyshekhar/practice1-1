@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+public class ReverseNumberExample2   
+{ #dev2 modified  
+public static void main(String[] args)   
+{  #dev 2 modified
+=======
+public class ReverseNumberExample2  #dev1 modified 
+{  
+public static void main(String[] args)   
+{  #dev 1 modified 
+>>>>>>> 532cabebaa5a32a2769c218c4a1106f501013d30
+int number = 123456, reverse = 0; 
+}#dev 1 modified 
