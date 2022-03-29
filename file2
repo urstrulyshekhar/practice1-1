@@ -1,8 +1,8 @@
 {
-# incluid (stdio.h)
+# incluid (stdio.h) #dev1
 # void main
-{
+{ #dev1
 insert hello world file2
 test 
 }
-}
+ }
