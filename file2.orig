@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+# incluid (stdio.h) #dev2
+# void main
+{ #dev2
+=======
+# incluid (stdio.h) #dev1
+# void main
+{ #dev1
+>>>>>>> 64ec9da1904de4647928a6d211467589d2c83d47
+insert hello world file2
+test 
+}
+ }
